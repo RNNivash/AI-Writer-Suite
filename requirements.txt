@@ -1,0 +1,11 @@
+langchain-google-genai 
+google-generativeai
+langchain_core
+python-dotenv
+streamlit
+requests
+langchain_community
+langserve
+fastapi
+uvicorn
+sse_starlette
